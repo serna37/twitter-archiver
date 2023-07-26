@@ -8,6 +8,8 @@
 - Chrome
 - React dev tool
 - chromedriver(in server)
+- docker(in server)
+- python3.x(in server without docker)
 
 ## features
 |status|method|endpoint|feature|remarks|
