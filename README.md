@@ -1,12 +1,12 @@
 # twi-archiver
 ## What's this?
 - Get your bookmark tweets from twitter
-- Save them on my server
+- Save them on your server
 - Show it on app
 
 ## Dependencies
 - Chrome
-- React dev tool
+- React dev tool - chrome extension
 - chromedriver(in server)
 - docker(in server)
 - python3.x(in server without docker)
